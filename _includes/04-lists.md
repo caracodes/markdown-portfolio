@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Getting an A in this class
+* Eating
+  * Candy
+  * Piza
